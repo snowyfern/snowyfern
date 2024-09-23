@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hiya, I'm Ivy 👋
 
-<!--
-**snowyfern/snowyfern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior studying Data Science at the University of California, Berkeley 🐻💙💛 I'm interested in **Game Development** and **Full-Stacks Web Development**
 
-Here are some ideas to get you started:
+- ⭐ Pronouns: she/her
+- 🏛️ Class of: 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Let's talk about: [Game Development]([url](https://snowyfern.itch.io/)), Web Development, and all things gaming!
+- 📫 Reach me on: [LinkedIn]([url]https://www.linkedin.com/in/ivy-ivl-liu/) | [Twitter]([url]https://x.com/snowyfern_) | [Email]([url]mailto:ivl@berkeley.edu) 
+- 🔍 Currently looking for: **Winter/Summer 2025 internships**!
+
+- 🌱 Currently taking (links coming soon!):
+  - **Web Development @ Cubstart**
+  - **Linux System Administration Decal**
+- 🔭 What I've been up to:
+  - 🌟 Coming soon!
