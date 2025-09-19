@@ -1,6 +1,6 @@
 ## Hiya, I'm Ivy 👋
 
-I'm a junior studying Data Science at the University of California, Berkeley 🐻💙💛 I'm interested in **Game Development** and **Full-Stacks Web Development**
+I'm a senior at the University of California, Berkeley 🐻💙💛 I'm interested in **Game Development** and **Full-Stacks Web Development**
 
 - ⭐ Pronouns: she/her
 - 🏛️ Class of: 2026
@@ -10,7 +10,6 @@ I'm a junior studying Data Science at the University of California, Berkeley �
 - 🔍 Currently looking for: **Winter/Summer 2025 internships**!
 
 - 🌱 Currently taking (links coming soon!):
-  - **Web Development @ Cubstart**
-  - **Linux System Administration Decal**
+  - to be updated :>
 - 🔭 What I've been up to:
-  - 🌟 Coming soon!
+  - 🌟 prev intern at 💚
